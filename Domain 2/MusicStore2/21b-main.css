@@ -1,4 +1,13 @@
 ﻿body
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
+  background-color: grey;
 } 
+
+p{
+  color:navy; 
+}
+.sale{
+  font-weight: bold;
+  background-color: pin
+}
